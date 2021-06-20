@@ -1,0 +1,3 @@
+On Cryptogenie players will compete against other players in our genie verse (Our Own Custom Genie World) by staking some amounts of Genie Tokens before they will be able to play and the winner (determined by the largest item collector over a set period of time) takes it all. We aim to build a fun-filled and exciting online game that you can earn real money while playing.
+
+The project is Inspired by successful games that have millions of downloads already such as Tennis Clash, Motor GP, Social Chess, fruit slash but the problem is that the people spend a lot of time playing the games, spending money to buy an add-on, power-ups yet, they don’t earn any real value or monetary gain from the game.
